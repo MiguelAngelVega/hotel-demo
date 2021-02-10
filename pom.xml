@@ -59,6 +59,16 @@
             <version>${axon.version}</version>
         </dependency>
         <dependency>
+            <groupId>io.axoniq.dataprotection</groupId>
+            <artifactId>axon-data-protection-axon4</artifactId>
+            <version>4.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.squareup.okhttp3</groupId>
+            <artifactId>okhttp</artifactId>
+            <version>4.9.1</version>
+        </dependency>
+        <dependency>
             <groupId>org.axonframework.extensions.reactor</groupId>
             <artifactId>axon-reactor-spring-boot-starter</artifactId>
             <version>${axon.reactor.version}</version>
@@ -330,7 +340,6 @@
             </releases>
         </repository>
     </repositories>
-
 
     <profiles>
         <profile>

@@ -1,0 +1,14 @@
+#AxonIQ License File generated on 2020-04-01
+#Wed Apr 01 12:09:28 UTC 2020
+license_key_id=b517e6f6-dcd4-459f-a2dd-b4eb1cb8f068
+signature=A4KBtii5RcFZyzEsSZpWN0m3ExmLhsa+ddTfz5+XazIYc1uAXwF6+mt8vClMnX9myVwb2/t1xAnFzJ8ZcPGzBcUQDZUBxp6DXuXuGibpciilJT772/wH9U+hsgi7NiuSEFxnJiIY8qwmOTZ+tzymVDmob8WHtG7sLz0bzVZaxwHyOrgFi32o2N635Iv1fb4OS/CFi1UsoE+kdGcEJkN3j2/k74MCZFD1hfsYvlX7CwLtr9hUx3PGqDYCHsak0z1eX6xd63aQmahY3V0rdYJBhC43QS3AqJ9w1dLJvMihE2Cmcdo/RdEGWYjl9xhiJcOueAGJ9yyZ6Rguj1rLRDlQqcxQe3drRsPUq3s37S2ya/NO39LJrDZpqzPLKi8+pYoW8PIL1jr5mJw8ykq4oUFsfsQjMr+4bIXEq2sH01c4xWogjiIM6y+1PIa/qT17qkcZdsGFlMhIn/nJ34gGOU6vX4vE0uHr/YkwuzTWsFjgAxXM0hnMGLyaY7cA1bjow0p7WrIQUeY9yLnLzHzcDouZUtxwYsKA7Y/TJLQ1pN/TRIGjo0X0eaTJK1OWuKPs2IyFQPyPJ6fajFS2UpOPvQ9fW3bkDAWtUsDFeN1dFyZInZMn5YxnQV79iPwyJYgfVQaiv+ZsvWehRv6Nfgo930OG2ol62838+aVwAbxAc/kecOo\=
+reference=Axon Cloud
+contexts=1
+expiry_date=2023-04-01
+contact=stefan.mirkovic@axoniq.io
+edition=
+issue_date=2020-04-01
+grace_date=2023-04-15
+product=AxonIQ GDPR Module
+licensee=AxonIQ B.V.
+clusterNodes=1

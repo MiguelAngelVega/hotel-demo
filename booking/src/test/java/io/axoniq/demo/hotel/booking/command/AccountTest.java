@@ -69,3 +69,8 @@ class AccountTest {
                    .expectSuccessfulHandlerExecution();
     }
 }
+
+class Address {
+
+}
+
